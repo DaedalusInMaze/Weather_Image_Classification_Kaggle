@@ -6,4 +6,4 @@ In this project, I used Tensorflow Keras framework and transfer learning techniq
 
 The Kaggle dataset can be found here: https://www.kaggle.com/jehanbhathena/weather-dataset.
 
-In this project, I tried both CNN state-of-the-art model EfficientNet and also Swin Transformers to test the performance.
+In this project, I tried both CNN state-of-the-art model EfficientNet and the next step is trying Swin Transformers to test the performance.
